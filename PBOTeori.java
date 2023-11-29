@@ -173,7 +173,7 @@ public class PBOTeori {
                     break;
 
                 case 11:
-                    System.out.println("Terima Kasih");
+                    System.out.println("Terima Kasih Telah Mengunjungi Peaceful Page ^_^");
                     System.exit(0);
                 default:
                     System.out.println("Menu tidak valid. Pilih menu lain.");
